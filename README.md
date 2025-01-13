@@ -5,6 +5,7 @@
 
 ![network](images/network.png)
 
-<video width="224" height="224" controls>
-  <source src="videos/460nm.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/498d6b44-e293-4663-b99f-d6bb0066cf19
+
+
+
