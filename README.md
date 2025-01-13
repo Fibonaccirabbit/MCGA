@@ -5,4 +5,6 @@
 
 ![network](images/network.png)
 
-<video src="videos/460nm.mp4"></video>
+<video width="224" height="224" controls>
+  <source src="videos/460nm.mp4" type="video/mp4">
+</video>
